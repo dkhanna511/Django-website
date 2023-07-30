@@ -1,4 +1,4 @@
-# Django-website
+# blog-post-website
 
 ### Command to run the server
 `python manage.py runserver`
